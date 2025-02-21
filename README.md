@@ -9,6 +9,7 @@ Este repositório contém informações sobre ferramentas úteis para apoia à e
 - [Modelo de Tese/Dissertação (USP)](https://gitlab.com/ccsl-usp/modelo-latex)
 - [Modelo de Projeto de Pesquisa FAPESP](https://pt.overleaf.com/latex/templates/projeto-fapesp-iniciacao-cientifica/wrjcqxbypyzk)
 - [Manuscript Templates for Conference Proceedings - IEEE](https://www.ieee.org/conferences/publishing/templates.html)
+- [Seção de Apoio ao Pesquisador da Biblioteca do IME-USP](https://www.ime.usp.br/bib/apoio-ao-pesquisador/)
 
 ## **2. Pré-requisitos: ambiente recomendado e pacotes**
 Recomendado utilizar o sistema operacional **Linux (Ubuntu/Debian)**. 
