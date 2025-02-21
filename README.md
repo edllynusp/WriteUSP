@@ -3,7 +3,7 @@
 # **Ferramentas para apoio  à  escrita acadêmica**
 ![Imagem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/writing-on-windows.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5)
 
-Este repositório contém informações sobre ferramentas úteis para apoia à escrita de documentos científicos, incluindo revisão ortográfica, versionamento, diferenciação de versões de documentos LaTeX, gráficos e entre outros. Foi inspirado após o minicurso "mão na massa" ministrado pelo Prof. Dr. Daniel Macedo Batista no IME-USP.
+Este repositório contém informações sobre ferramentas úteis para apoia à escrita de documentos científicos, incluindo revisão ortográfica, versionamento, diferenciação de versões de documentos LaTeX, gráficos e entre outros. Foi inspirado após o minicurso "mão na massa" de ferramentas úteis para escrita e revisão de textos científicos ministrado pelo Prof. Dr. Daniel Macedo Batista no IME-USP.
 
 ## **1. Templates para tese, Projeto de pesquisa FAPESP e outros**
 - [Modelo de Tese/Dissertação (USP)](https://gitlab.com/ccsl-usp/modelo-latex)
