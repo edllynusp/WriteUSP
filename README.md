@@ -8,7 +8,7 @@ Este repositório contém informações sobre ferramentas úteis para apoia à e
 ## **1. Templates para tese, Projeto de pesquisa FAPESP e outros**
 - [Modelo de Tese/Dissertação (USP)](https://gitlab.com/ccsl-usp/modelo-latex)
 - [Modelo de Projeto de Pesquisa FAPESP](https://pt.overleaf.com/latex/templates/projeto-fapesp-iniciacao-cientifica/wrjcqxbypyzk)
-- [Manuscript Templates for Conference Proceedings - IEEE](https://pt.overleaf.com/latex/templates/projeto-fapesp-iniciacao-cientifica/wrjcqxbypyzk)
+- [Manuscript Templates for Conference Proceedings - IEEE](https://www.ieee.org/conferences/publishing/templates.html)
 
 ## **2. Pré-requisitos: ambiente recomendado e pacotes**
 Recomendado utilizar o sistema operacional **Linux (Ubuntu/Debian)**. 
